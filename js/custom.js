@@ -66,7 +66,7 @@ $('.panel .img-responsive').on('load', function() {
 
 
 /* google maps */
-google.maps.visualRefresh = true;
+//google.maps.visualRefresh = true;
 
 var map;
 function initialize() {
